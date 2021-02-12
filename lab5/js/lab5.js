@@ -5,7 +5,7 @@
 //Javavscript code borrowed from We Modes <wmodes@csumb.edu>
 
 
-console.log("Here we go")
+console.log("Check this Out")
 
 
 //Define Variables
@@ -24,8 +24,8 @@ var age = new Date().getFullYear();
 
 
 //output
-document.writeIN("Make: " + make + "<br>");
-document.writeIN("Model: " + model + "<br>");
-document.writeIN("Color: " + color + "<br>");
-document.writeIN("Year: " + year + "<br>");
-document.writeIN("Age : " + age + "<br>");
+document.writeIn("Make: " + make + "<br>");
+document.writeIn("Model: " + model + "<br>");
+document.writeIn("Color: " + color + "<br>");
+document.writeIn("Year: " + year + "<br>");
+document.writeIn("Age : " + age + "<br>");
