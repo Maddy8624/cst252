@@ -23,7 +23,7 @@ housesArray = [
    }
 ]
 //Code & descriptions borrowed from Wes Modes
-credit = '<div class="credits">Hogwarts house descriptions courtesy of <a href="https://iamjustdandi.wordpress.com/2015/11/06/those-in-between-hogwarts-houses/">iamjustdandi</a></div>';
+credit = '<div class="credits">Code borrowed from Wes Modes. Hogwarts house descriptions courtesy of <a href="https://iamjustdandi.wordpress.com/2015/11/06/those-in-between-hogwarts-houses/">iamjustdandi</a></div>';
 
 
 // Return Gryffindor, Ravenclaw, Slytherin, and Hufflepuff
