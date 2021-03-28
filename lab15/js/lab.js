@@ -31,3 +31,30 @@ for (var i = 0; i<vehicles.length; i++) {
   newEl.innerText = vehicles[i].info();
   outputEl.appendChild(newEl);
 }
+
+
+
+//Design OOP for Hangman
+  //Understand the Problem
+  //Pseudocode the High Level Approach
+  //Assign Actions to Objects
+  //Make Javascript-ish Pseudocode
+
+    //Create a Hnagman game that is directly controlled by the palyers
+      //class Hangman
+        //Start Game
+          //Create Hangman Game Board
+          //Set up player
+            //Computer generates randomly selected word/string of words
+
+        //Play Game
+          //Allow player to guess letter
+            //Create loop for part of hangman to be drawn if wrong guess of letter
+            //Display letter if correct guess
+
+        //Finish Game
+          //Continue loop and game until hangman complete or word/string of words correctly guessed
+
+        //Display Victory
+          //If hangman completely drawn then computer wins and player loses
+          //If word/string of words correctly guessed then player wins and computer loses
