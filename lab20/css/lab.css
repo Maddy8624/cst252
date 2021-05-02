@@ -1,0 +1,53 @@
+h1 {
+  color: #002B49;
+  font-size:500%;
+  font-family: serif;
+}
+
+p {
+  color: #002B49;
+  font-family: serif;
+  font-size: 150%;
+}
+
+img {
+  width: 250px;
+  height: auto;
+}
+
+html {
+  background-color: #D4D0CB;
+  height: auto;
+  border-style: double;
+  border-color: #002B49;
+}
+
+.script {
+  color: black;
+  font-family: serif;
+  font-size: 100%;
+}
+
+#Challenge-Button {
+  background-color: pink;
+}
+
+#Challenge-Button.york {
+  background-color: yellow;
+}
+
+#Subject-Button {
+  background-color: blue;
+}
+
+#Subject-Button.peggy {
+  background-color: pink;
+}
+
+#Results-Button {
+  background-color: yellow;
+}
+
+#Results-Button.buster{
+  background-color: blue;
+}
